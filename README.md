@@ -1,1 +1,2 @@
-This repository to practice with Git command.
+- This repository to practice with Git command.
+- Add commit 2 to README
