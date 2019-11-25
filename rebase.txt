@@ -1,1 +1,2 @@
 this is rebase.txt for commit1
+this is master for commit 1
