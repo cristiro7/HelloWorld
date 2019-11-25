@@ -4,4 +4,5 @@ this is master for commit 1
 
 this is feature branch commit1
 this is feature branch commit2
+this is feature branch commit3
 
